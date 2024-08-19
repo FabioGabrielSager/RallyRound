@@ -1,0 +1,6 @@
+[submodule "RallyRound-BackEnd"]
+	path = RallyRound-BackEnd
+	url = https://github.com/FabioGabrielSager/RallyRound-BackEnd
+[submodule "RallyRound-FrontEnd"]
+	path = RallyRound-FrontEnd
+	url = https://github.com/FabioGabrielSager/RallyRound-FrontEnd.git
